@@ -16,6 +16,10 @@ This is my first project and I completed it in 2022. I used Python & PyGame to c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Showcase
+
+https://github.com/developersbm/Spaceship-Game-Python/assets/122469079/bc8e12b0-ad6b-4d22-85bf-aa4a0bcae0fc
+
 ## Built With
 
 * [![Python][Python.com]][Python-url]
